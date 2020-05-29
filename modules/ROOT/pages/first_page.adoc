@@ -1,0 +1,10 @@
+= The First Asciidoc example: Subtitle                              
+Lorina Poland(c) 2020
+Version 0.1, 05.28.2020                                             
+:sectnums:                                                          
+:toc:                                                               
+:toclevels: 4                                                       
+:toc-title: My memoirs                                              
+                                                                    
+:description: This will eventually be my memoirs.
+:keywords: life 
