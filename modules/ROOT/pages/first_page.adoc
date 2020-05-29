@@ -1,4 +1,4 @@
-= The First Asciidoc example: Subtitle                              
+= My memoirs : Life as it is                              
 Lorina Poland(c) 2020
 Version 0.1, 05.28.2020                                             
 :sectnums:                                                          
